@@ -5,8 +5,6 @@
 | |_| |  __/\ V /  __/\__ \ | | |  ___) | | | | | (_| | | | | | |_| | (_| \__ \ | | (_| |
 |____/ \___| \_/ \___||___/_| |_| |____/|_|_| |_|\__, |_| |_| |____/ \__,_|___/_|_|\__,_|
                                                  |___/       
-
-
 <!--
 **Demigra/Demigra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
